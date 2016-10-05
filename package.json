@@ -1,0 +1,22 @@
+{
+  "name": "hapi-and-apollo-server",
+  "version": "1.0.0",
+  "description": "trying hapi.js with Apollo Server",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nicodinh/hapi-and-apollo-server.git"
+  },
+  "author": "Nicolas Azari",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nicodinh/hapi-and-apollo-server/issues"
+  },
+  "homepage": "https://github.com/nicodinh/hapi-and-apollo-server#readme",
+  "dependencies": {
+    "hapi": "^15.1.1"
+  }
+}

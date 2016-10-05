@@ -1,0 +1,1 @@
+jsfmt --write server.js
